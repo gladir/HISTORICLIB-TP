@@ -8,9 +8,11 @@ Unit ROMAN;
 
 INTERFACE
 
+Function Add2RomainNumber(A,B:String):String;
 Function IsRomanNumber(S:String):Boolean;
 Function NumberToRomain(X:Integer):String;
 Function RomainToNumber(S:String):Integer;
+Function Sub2RomainNumber(A,B:String):String;
 
 IMPLEMENTATION
 
@@ -85,6 +87,14 @@ Begin
   End;
  End;
  RomainToNumber:=Number;
+End;
+
+Function Add2RomainNumber(A,B:String):String;Begin
+ Add2RomainNumber:=NumberToRomain(RomainToNumber(A)+RomainToNumber(B));
+End;
+
+Function Sub2RomainNumber(A,B:String):String;Begin
+ Sub2RomainNumber:=NumberToRomain(RomainToNumber(A)-RomainToNumber(B));
 End;
 
 END.
