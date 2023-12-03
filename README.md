@@ -19,6 +19,10 @@ Voici la liste des unités que contient la bibliothèque «HISTORICLIB-TP» :
     <td>Cette unité contient les définitions, les procédures et les fonctions pour vérifier les origines de noms de famille, de langage,...</td>
   </tr>  
   <tr>
+    <td><b>POPUL.PAS</b></td>
+    <td>Cette unité contient les définitions, les procédures et les fonctions d'historique de population.</td>
+  </tr>
+  <tr>
     <td><b>ROMAN.PAS</b></td>
     <td>Cette unité contient les procédures et fonctions pour le traitement de nombres Romain.</td>
   </tr>
