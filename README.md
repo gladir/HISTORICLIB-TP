@@ -11,6 +11,10 @@ Voici la liste des unités que contient la bibliothèque «HISTORICLIB-TP» :
     <th>Description</th>
   </tr>
   <tr>
+    <td><b>CESAR.PAS</b></td>
+    <td>Cette unité contient les routines utilisé par l'empire Romain pour encypter leur message avec la méthode du chiffre de César.</td>
+  </tr>
+  <tr>
     <td><b>OLDFR.PAS</b></td>
     <td>Cette unité contient les fonctions traductions du vieux français au français moderne.</td>
   </tr>
