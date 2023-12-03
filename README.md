@@ -12,6 +12,6 @@ Voici la liste des unités que contient la bibliothèque «HISTORICLIB-TP» :
   </tr>
   <tr>
     <td><b>ORIGIN.PAS</b></td>
-    <td>Cette unité contient les définitions, les procédures et les fonctions pour vérifier les origines de noms de famille,...</td>
+    <td>Cette unité contient les définitions, les procédures et les fonctions pour vérifier les origines de noms de famille, de langage,...</td>
   </tr>  
 </table>
